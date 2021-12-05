@@ -5,4 +5,8 @@
 
 .timer-container .timer-value {
   font-size: 18px;
+  display: inline-block;
+  background: #333333;
+  padding: 14px 20px;
+  border-radius: 10px;
 }
